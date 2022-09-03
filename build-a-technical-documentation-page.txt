@@ -1,0 +1,142 @@
+** start of undefined **
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+   <link rel="stylesheet" href="styles.css">
+    <title>Technical Documentation</title>
+    </head>
+    <body>
+      <nav id="navbar">
+      <header><br />Pimp's Coaching</header>
+      <hr />
+      <a href="#introduction" class="nav-link">Introduction</a><br />
+      <hr />
+      <a href="#things_you_should_know?" class="nav-link">Things you should know?</a><br />
+      <hr />
+      <a href="#what_we_teach" class="nav-link">What we teach</a><br />
+      <hr />
+      <a href="#how_long_it_would_take" class="nav-link">How long it would take</a><br />
+      <hr />
+      <a href="#what_to_expect_after_our_program" class="nav-link">What to expect after our program</a
+      ><br />
+      <hr />
+      <a href="#reference" class="nav-link">Reference</a>
+      <br />
+      <hr />
+    </nav>
+     <main id="main-doc">
+       <section class="main-section" id="introduction">
+         <header>Introduction</header> 
+     <p> Pimps Coaching is a certified coaching program headed by 2 time nobel laurette winner, Tejumola Jesuferanmi Shalom has helped tons of nice guys to get the dating life they truly require.I was raised in kwara state, a city in a third world country, Nigeria. I was raised by a single mom who did her best to bring up me and my brothers as responsible, well brought up men.</p> 
+      <h2> <img id="slime" class ="center" src="https://scontent.flos1-1.fna.fbcdn.net/v/t39.30808-6/243008838_988391885056697_3656713558862281070_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeHQbRiBK1LbO341t7k9R30RmBMRp3pq6BaYExGnemroFvW49ZJ65AXpZO4d5Qh3R88BZ6bUgM6br5q_ME1BHgek&_nc_ohc=fbm-aSGh8oIAX-5c_jX&_nc_zt=23&_nc_ht=scontent.flos1-1.fna&oh=00_AT__CoNyb7Sd6WhWvF_OnJ_jEENxw-iVbLcWQa7S3QU3tg&oe=62E6BBC3"/></h2>
+         <legend><code> <ul> <p><li> About Me: At a young age i became dependant on external validation from women and hid my sexual desires because i didnt want to be considered a pervert or jerk. Yet, i did all the girl wanted. For example: I would wait behind in school for my bestie while she hooked up with different guys. I hated myself, i considered her as being selfish because i couldnt understand why she wouldnt hook up with a guy like me that gave her everything at a drop of hat. And hooked up with jerks.</li></p>
+       <p><li>The man i used to be. I was a fat, lazy, unmotivated, sleeping on my mom's couch kind of man. i wasnt getting girls a sense of being incomplete always dominated me. Broke and seeking constant validation from girls all the time.I was always horny and angry.In the fall of 2020 during the pandemic mass communication set of 18 played an annonymous game. i was dragged on the platform. Coursemates annonymously commented on my looks, my wallet and on supposedly bad character. I was ashamed cause i used to believe that i never offended anyone, so why was i getting called out?</li></p>
+       <p><li>The man i have become. I began training myself daily; both mentally and physically. Hit the gym, developed my people's skills and harnessed other talents; including investing and acquiring knowlegde in general works of life. I own two mansions in spain, a private jet, total of 20 fast cars and i have dated countless super models.  </li></p></code>
+     </ul> </legend>
+     <h2><img id="dan" src="https://i.pinimg.com/564x/d3/dd/2f/d3dd2fb72e2fbf36e77075f720153059.jpg" /></h2>
+         </section>
+           <section class="main-section" id="things_you_should_know?">
+             <header>Things you should know?</header> <legend>
+ <code>               <ul>
+                  <li><p>Women only fuck with man they respect not necceserily who they love, there re tens of women that would love you as you're. Ten thousand more if you develop or work on yourself.Society would try to tell you how to behave, evaluate there thoughts but  never completely take all they tell you without proper review on your part. Men do not neccesarily worry about there style, smell, haircut etc. So if you tweak your style just a little you would surpass most men in fashion. Stay easy on yourself, but go hard</p></li><h2><img id="md" src="https://i.pinimg.com/236x/01/46/1e/01461ea823c46c1fe741baf57cab0506.jpg" /></h2>
+             <li> <p>Stay easy on yourself, but go hard. Avoid burnout, health is a mans most valuable currency. Focus on your health, wealth and physical appearance. Get in shape, do the hard things, save some money, work hard. But do not burn out.</p></li>
+            </ul></code></legend>             
+         </section>
+           <section class="main-section" id="what_we_teach">
+             <header>What we teach</header>
+     <code>      <p>Becoming a true alpha, The common ideas of "alphas" and "betas" males are based on the perception that alphas are dominant within a social hierarchy.Alphas looks at each day as an opportunity to better themselves, their position in life, and the lives of those around them.
+He's always looking for the next way to get ahead - finding side hustles that can turn into long-term entrepreneurship, or finding a career that fulfills him.
+The alpha males take care of themselves and plan for tomorrow while making today the best it can be.</p>
+           <p>Flow Mode: Creating a vibe with someone you like is the first step you need to take to pique their interest in you. I mean, the key to making that vibe more incessant, is to just make her laugh by creating a fun atmosphere. 
+
+While this may come naturally to some guys, for me, it took a bit of an effort to create that vibe around women in general. You know what I mean? While some guys will make her laugh and have her eating out of their hands, others like me shy away and get confused as to how to make her comfortable and start a good conversation.</p>
+           <p>Dirty Talk, Dirty talk may feel strange at first as you pick your brain for the perfect dirty things to say to your partner. Relax a little—talking dirty isn't an exact science, and navigating it relies more on how comfortable you are versus how much you know about it. Here's how to talk dirty during sex, plus sexy things to say to your partner outside the bedroom to build excitement. </p>
+           <p>Being Assertive, Being assertive shows that you respect yourself because you're willing to stand up for your interests and express your thoughts and feelings. It also demonstrates that you're aware of others' rights and willing to work on resolving conflicts.</p></code>
+         </section>
+           <section class="main-section" id="how_long_it_would_take">
+             <header>How long it would take</header>
+        <code> 
+          <p>
+            3 months coaching program, A 3 months dating program.
+          </p>
+         <p>
+           6 months coaching program, A 6 months dating program.
+           </p>
+           </code> 
+           </section>
+           <section class="main-section" id="what_to_expect_after_our_program">
+    <header>What to expect after our program</header>
+<code><p>The quiestion most men ask me is that, feranmi what happens after the completion of the months long training program? I tell them that, pimps coaching offers a lifelong partnership</p>
+<p>A Lifelong Partnership</p>
+<legend><ul>
+  <li>A facebook group for all men who have attended pimps program has been in existence since 2019. Filled with over a thousand men who are experts at getting girls and have built the life they always wanted. Its a community of winners.</li>
+  </ul></code>
+  </legend>
+  </section>
+  <section class="main-section" id="reference"> 
+    <header>Reference</header>
+    <a href="https://en.wikipedia.org/wiki/Algebra"
+              >Pimp's Wikipedia's page</a
+            >
+            for more general information.
+         </section>
+       </main> 
+       </body>
+  </html>
+
+** end of undefined **
+
+** start of undefined **
+
+
+
+#slime{position: static;
+  width: 500px;
+}
+* {
+  background-color: black;
+  color: white;
+}
+a {
+  color: white;
+}
+a:hover {
+  background-color: #92869c;
+  color: white;
+}
+#navbar {
+  border-style: solid;
+  border-width: 5px;
+  border-color: #92869c;
+  height: 100%;
+  top: -5px;
+  left: -5px;
+  padding: 5px;
+  text-align: center;
+  color: #92869c
+}
+@media (min-width: 480px) {
+  #navbar {
+    position: fixed;
+  }
+}
+main {
+  margin-left: 220px;
+  color: #92869c
+}
+header {
+  font-size: 20pt;
+}
+code {
+  background-color: #92869c;
+  border-style: dashed;
+  border-width: 2px;
+  border-color: #92869c;
+  padding: 5px;
+  color: black;
+}
+
+** end of undefined **
+
